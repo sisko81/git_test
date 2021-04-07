@@ -1,1 +1,1 @@
-This is Rasheed's first git project!
+This is Rasheed's first git project! Updated index and css files
