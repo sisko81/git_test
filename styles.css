@@ -8,7 +8,16 @@ img{
 }
 
 #search-bar{
-    padding-left: 23%;
+    
+    margin: 15px auto ;
+    margin-top: 6px;
     border-radius: 17px;
     height: 35px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+   
+    
+   
 }
