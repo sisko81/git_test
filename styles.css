@@ -21,4 +21,7 @@ img{
 
 p{
     display: inline;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2px;
 }
