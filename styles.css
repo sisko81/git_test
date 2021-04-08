@@ -6,3 +6,9 @@ img{
     padding-top: 11%;
     padding-left: 40%;
 }
+
+#search-bar{
+    padding-left: 23%;
+    border-radius: 16px;
+    height: 35px;
+}
