@@ -1,5 +1,5 @@
 body{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 img{
@@ -17,7 +17,8 @@ img{
     display: flex;
     justify-content: center;
     padding-top: 5px;
-   
-    
-   
+}
+
+p{
+    display: inline;
 }
