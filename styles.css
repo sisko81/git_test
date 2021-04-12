@@ -27,7 +27,7 @@ a:link{
 
 ul{
     
-    padding: 25px;
+    padding: 5px;
     margin: 0;
     
     display: flex;
@@ -38,7 +38,7 @@ ul{
 
 li{
     display: inline;
-    padding: 25px;
+    padding: 2px;
     margin: 2px;
     
     
@@ -47,16 +47,16 @@ li{
 }
 
 #list-1{
-    background: lightgrey;
+    background:#f2f2f2;
     color: grey;
     padding: 7px 12px 7px 12px;
     
 }
 
 #list-2{
-    background: lightgrey;
+    background: #f2f2f2;
     color: grey;
     padding: 7px 12px 7px 12px;
-    padding-right: 20%;
+    
    
 }
