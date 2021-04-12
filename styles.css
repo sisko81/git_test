@@ -19,6 +19,13 @@ img{
     padding-top: 5px;
 }
 
+/*.material-icons{
+    
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}*/
+
 a:link{
     text-decoration: none;
 }
@@ -59,4 +66,13 @@ li{
     padding: 7px 12px 7px 12px;
     
    
+}
+
+
+#search-icon{
+    color: tomato;
+}
+
+#mic-icon{
+    color: teal;
 }
