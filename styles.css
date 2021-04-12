@@ -15,9 +15,18 @@ img{
     height: 35px;
     width: 600px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     padding-top: 5px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/1200px-Vector_search_icon.svg.png), url(https://clipground.com/images/google-mic-icon-clipart-1.jpg);
+    background-position: left, right;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 15px;
+
 }
+
+
+
+
 
 /*.material-icons{
     
@@ -69,10 +78,11 @@ li{
 }
 
 
-#search-icon{
-    color: tomato;
+/*#search-icon{
+    color: grey;
 }
 
 #mic-icon{
     color: teal;
-}
+    
+}*/
