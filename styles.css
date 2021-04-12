@@ -1,5 +1,5 @@
 body{
-    font-size: 15px;
+    font-size: 12px;
 }
 
 img{
@@ -27,13 +27,36 @@ a:link{
 
 ul{
     
-    padding: 0;
+    padding: 25px;
     margin: 0;
+    
+    display: flex;
+    justify-content: center;
     
     
 }
 
 li{
     display: inline;
+    padding: 25px;
+    margin: 2px;
     
+    
+   
+    
+}
+
+#list-1{
+    background: lightgrey;
+    color: grey;
+    padding: 7px 12px 7px 12px;
+    
+}
+
+#list-2{
+    background: lightgrey;
+    color: grey;
+    padding: 7px 12px 7px 12px;
+    padding-right: 20%;
+   
 }
