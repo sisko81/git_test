@@ -1,8 +1,9 @@
 body{
     font-size: 12px;
 }
+
 .left-nav{
-    
+    float: left;
 }
 
 #store{
@@ -15,6 +16,7 @@ body{
 
 .right-nav{
     float: right;
+    padding-right: 150px;
 }
 
 #gmail{
