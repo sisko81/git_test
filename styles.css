@@ -1,6 +1,29 @@
 body{
     font-size: 12px;
 }
+.left-nav{
+    
+}
+
+#store{
+    
+}
+
+#about{
+    
+}
+
+.right-nav{
+    float: right;
+}
+
+#gmail{
+    
+}
+
+#images{
+    
+}
 
 img{
     padding-top: 11%;
@@ -9,19 +32,19 @@ img{
 
 #search-bar{
     
-    margin: 15px auto ;
+    margin: 30px auto;
     margin-top: 6px;
     border-radius: 17px;
     height: 35px;
     width: 600px;
     display: flex;
-    justify-content: space-around;
-    padding-top: 5px;
+    justify-content: center;
+    
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/1200px-Vector_search_icon.svg.png), url(https://clipground.com/images/google-mic-icon-clipart-1.jpg);
     background-position: left, right;
-    background-repeat: no-repeat, no-repeat;
+    background-repeat: no-repeat, no-repeat; 
     background-size: 15px;
-
+ 
 }
 
 
@@ -41,7 +64,7 @@ a:link{
 
 
 
-ul{
+.bottom-nav{
     
     padding: 5px;
     margin: 0;
