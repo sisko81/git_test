@@ -34,6 +34,9 @@ ul > a, ul > span{
     border-radius: 20pxS;
     cursor: pointer;
 }
+.sign:hover{
+    box-shadow: 0 0 10px 0 gainsboro;
+}
     
 
     
