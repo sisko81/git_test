@@ -1,118 +1,39 @@
 body{
-    font-size: 12px;
-}
-
-.left-nav{
-    float: left;
-}
-
-#store{
-    
-}
-
-#about{
-    
-}
-
-.right-nav{
-    
-    float: right;
-    padding-right: 2%;
-    
-}
-
-#gmail{
-   
-}
-
-#images{
-  
-}
-
-#apps-logo{
-  
-   float: right ;
-   margin: 5px;
-   padding-right: 15px;
-}
-
-p{
-    color: white;
-    float: right;
-    background-color: rgb(89, 166, 214);
-    padding: 10px 10px 10px 10px;
-    
-    
-    
-}
-
-img{
-    padding-top: 11%;
-    padding-left: 30%;
-}
-
-#search-bar{
-    
-    margin: 30px auto;
-    margin-top: 6px;
-    border-radius: 17px;
-    height: 35px;
-    width: 600px;
-    display: flex;
-    justify-content: center;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/1200px-Vector_search_icon.svg.png), url(https://clipground.com/images/google-mic-icon-clipart-1.jpg);
-    background-position: left, right;
-    background-repeat: no-repeat, no-repeat; 
-    background-size: 15px;
-}
-
-a:link{
-    text-decoration: none;
-}
-
-.bottom-nav{
-    padding: 5px;
     margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 0.9em;
+}
+
+a{
+    text-decoration: none;
+    margin: 5px;
+    color: #333;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+nav{
     display: flex;
-    justify-content: center;  
+    justify-content: space-between;
 }
-
-li{
-    display: inline;
-    padding: 2px;
-    margin: 2px;   
-}
-
-#list-1{
-    background:#f2f2f2;
-    color: grey;
-    padding: 7px 12px 7px 12px;
-}
-
-#list-2{
-    background: #f2f2f2;
-    color: grey;
-    padding: 7px 12px 7px 12px;
-}
-
-.foot{
-    display: inline;
-    margin: 10px;
-    padding: 0 15px;
-    
-    
-}
-
-#right-bottom{
-   float: right;
-   display: flex;
-   
-   
-}
-
-#left-bottom{
-    float: left;
+.top-links{
     display: flex;
-    padding-right: 7px;
-    
+   align-items: center;
+   padding-left: 20px;
+   margin-right: 10px;
 }
+
+ul > a, ul > span{
+    padding: 0 8px;
+}
+
+.material-icons:hover{
+    box-shadow: 0 0 10px 0 gainsboro;
+    border-radius: 20pxS;
+    cursor: pointer;
+}
+    
+
+    
