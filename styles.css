@@ -34,9 +34,24 @@ ul > a, ul > span{
     border-radius: 20pxS;
     cursor: pointer;
 }
-.sign:hover{
-    box-shadow: 0 0 10px 0 gainsboro;
-}
-    
 
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1px;
+}
+
+
+
+h1{
+    font-family: Inconsolata;
+    font-size: 5.5em;
+}
+
+.my-input-container{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
     
