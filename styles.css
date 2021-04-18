@@ -53,5 +53,21 @@ h1{
     display: flex;
     justify-content: space-between;
     width: 600px;
+    height: 38px;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
 }
+
+.my-input-container:hover{
+    box-shadow: 0 0 10px 0 gainsboro;
+}
+    
+
+.my-input-container > input{
+    flex-grow: 1;
+    border: none;
+    outline: none;
+}
+
+
     
