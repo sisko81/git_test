@@ -1,1 +1,1 @@
-This is Rasheed's first git project! Updated index and css files
+This is my first git project.A simple google home page look-a-like without any responsiveness with basic placement
