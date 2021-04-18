@@ -25,6 +25,8 @@ nav{
    margin-right: 10px;
 }
 
+
+
 ul > a, ul > span{
     padding: 0 8px;
 }
@@ -58,6 +60,16 @@ h1{
     border-radius: 20px;
 }
 
+#mic{
+    padding: 8px 8px;
+    color: blue;
+}
+
+#mag-glass{
+    padding: 8px 0 0 8px;
+    color: gray;
+}
+
 .my-input-container:hover{
     box-shadow: 0 0 10px 0 gainsboro;
 }
@@ -69,5 +81,21 @@ h1{
     outline: none;
 }
 
+.my-button-container{
+    padding-top: 53px;
+}
 
+button{
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    border: none;
+    height: 36px;
+    padding: 0 20px;
+    margin: 0 4px;
+}
+
+button:hover{
+    cursor: pointer;
+    box-shadow: 0 0 10px gainsboro;
+}
     
